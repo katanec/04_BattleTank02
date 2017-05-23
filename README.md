@@ -12,4 +12,5 @@ An open world head to head tank fight with simple AI, terrain, and advanced cont
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
-* BT02 
+* BT02 Game design GDD
+*
